@@ -29,8 +29,8 @@ body {
 
 
 header {
-    width: 910px;	/* reduced by 20px to accommodate shadow */
-    margin-bottom: 30px;
+    width: 930px;	/* reduced by 20px to accommodate shadow */
+    margin-bottom: 15px;
     margin-top: 10px;
     text-align: center;
     border: 2px solid black;
@@ -59,7 +59,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background: gray;
+    background: #c63a29;
     border-radius: 10px;
     color: white;
 }
@@ -70,12 +70,12 @@ nav ul li a:hover {
     float: left;
     color: black;
     border-left: 2px solid;
-    border-right: 2px solid;    
-    background-image: url(images/ricepaper.jpg); 
+    border-right: 2px solid; 
 }
 
 #main p {
     text-indent: 1.5em;
+    text-align: justify;
 }
 
 figure{
