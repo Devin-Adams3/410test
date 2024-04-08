@@ -100,16 +100,18 @@ aside p {
 }
 
 h2 {
-    font-size: 1.4em;
+    font-size: 1.5em;
     text-align: center;
     padding-bottom: 0.5em;
 }
 
 h3 {
+	font-size: 1em;
     text-align: center;
     padding-bottom: 0.5em;
     padding-top: 0.5em;
 }
+
 
 footer {
     width: 910px;
