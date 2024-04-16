@@ -112,6 +112,24 @@ h3 {
     padding-top: 0.5em;
 }
 
+table.schedule {
+	background: white;
+	border: 5px outset black;
+	border-collapse: collapse;
+	font-size: 0.75em;
+	width: 100%;
+}
+
+table.schedule th, table.schedule td {
+	border: 1px solid grey;
+	padding: 5px;
+	vertical-align: top;
+}
+
+table.schedule thead {
+	background: black;
+	color: white;
+}
 
 footer {
     width: 910px;
